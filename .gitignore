@@ -1,0 +1,5 @@
+*.pptx
+*.dat
+*.py~
+*.pyc
+metastore_db
